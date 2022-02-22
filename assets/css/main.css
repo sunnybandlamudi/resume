@@ -5298,3 +5298,8 @@ a.credit {
 .roles_responsibility, .outcomes{
     font-weight: bold;
 }
+
+.progress-image{
+    width:20px;
+    margin-left: -2px;
+}
